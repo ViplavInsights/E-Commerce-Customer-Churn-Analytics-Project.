@@ -31,6 +31,6 @@ This project analyzes customer churn using real-world ecommerce data from Kaggle
 ## 
 
   
-  `[View Full Analysis Report](reports/churn_insights.html)`
--
+  
+
 
